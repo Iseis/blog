@@ -25,7 +25,7 @@ SECRET_KEY = 'vp&8linwx3kzg2l!m79v)$e80mpe)^=i$zbmj3%jr@dwf2qfau'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [firerockwebs.pythonanywhere.com]
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
